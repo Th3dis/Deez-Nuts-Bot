@@ -3,7 +3,7 @@ import random
 import asyncio
 from discord.ext import commands
 
-token = "OTIxMDk0OTM1NjUyOTkxMDI2.Ybt6gQ.uSbpE-L6gz_HsiYEmkTif2t9fLM"
+token = "insert token here"
 client = discord.Client()
 
 @client.event
